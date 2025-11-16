@@ -1,0 +1,4 @@
+cryptography>=40.0
+pyopenssl
+pymysql
+python-dotenv
